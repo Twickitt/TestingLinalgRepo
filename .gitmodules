@@ -1,3 +1,3 @@
-[submodule "Test"]
-	path = Test
-	url = https://github.com/Twickitt/HSE_CPP_LABS.git
+[submodule "LinalgLibrary"]
+	path = LinalgLibrary
+	url = https://github.com/Twickitt/Linal_Library.git
