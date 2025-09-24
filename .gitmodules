@@ -1,5 +1,4 @@
 [submodule "LinLibrary"]
 	path = LinLibrary
 	url = https://github.com/Twickitt/Linal_Library.git
-[submodule "linalg"]
-	url = https://github.com/Twickitt/Linal_Library.git
+
