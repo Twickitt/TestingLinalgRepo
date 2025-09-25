@@ -1,10 +1,3 @@
-<<<<<<< HEAD
 [submodule "LinLib"]
 	path = LinLib
-=======
-[submodule "LinLibrary"]
-	path = LinLibrary
 	url = https://github.com/Twickitt/Linal_Library.git
->>>>>>> 819249c (Update submodule URL)
-	url = https://github.com/Twickitt/Linal_Library.git
-
