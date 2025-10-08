@@ -1,5 +1,5 @@
 cmake_minimum_required(VERSION 3.10)
 project(LAB1)
-add_executable(Testsing source/linalg_test.cpp)
-add_subdirectory(LinLib/)
-target_link_libraries(Testsing PUBLIC linalg_realization)
+add_executable(Testsing_prog source/linalg_test.cpp)
+add_subdirectory(LinLib)
+target_link_libraries(Testsing_prog PUBLIC LinLib)
